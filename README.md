@@ -1,9 +1,11 @@
 # Installation
 
-`npm i Results`
+Run npm command
+
+`npm i @mediawaresrl/results`
 
 Then...
 
 ```js
-const Results = require('Results');
+const results = require('results');
 ```

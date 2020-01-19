@@ -15,6 +15,8 @@ function log(cmd, res) {
     console.log(cmd + ' : ' + res)
 }
 
+
+
 describe('Result', function () {
     describe('#.err with empty constructor', function () {
         it('should return true', function () {

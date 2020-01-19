@@ -1,12 +1,16 @@
 {
-  "name": "Results",
+  "name": "@mediawaresrl/results",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "test.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "keywords": [
+    "results",
+    "error handling"
+  ],
+  "author": "MediaWare",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
