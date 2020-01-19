@@ -38,6 +38,7 @@ module.exports = class Results {
 
         //holde the error
         //if (this.error) this.error = null;
+        const testcommit = ""
     }
 
     //where in the script a new intent is stared
