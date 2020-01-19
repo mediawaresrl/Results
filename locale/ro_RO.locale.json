@@ -1,0 +1,26 @@
+[
+    {
+        "code1": [
+            {
+                "from": "network1",
+                "to": "Eroare de retea 1"
+            },
+            {
+                "from": "test1",
+                "to": "Testam si noi 1"
+            }
+        ]
+    },
+    {
+        "code2": [
+            {
+                "from": "network2",
+                "to": "Eroare de retea 2"
+            },
+            {
+                "from": "test2",
+                "to": "Testam si noi 2"
+            }
+        ]
+    }
+]
